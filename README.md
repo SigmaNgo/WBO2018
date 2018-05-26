@@ -8,6 +8,7 @@
 
 Chcę aby Grabiszynek był przyjazny dla pieszych:
 1. wybudowanie nowych chodników przy Rymarskiej i Racławickiej
+![](https://github.com/SigmaNgo/WBO2018/blob/master/obrazki/mapy/chodniki.JPG | width=100)
 2. ulepszenie wejścia do parku od ul. Tapicerskiej (aby było tak wygodne jak jest przy wejściu od ul. Heblarskiej / Ślusarskiej) - jest tu duży ruch pieszy i mogłoby być bezpieczniej (wyniesienie skrzyżowania) i przyjemniej (asfalt zamiast błota, latarnie)
 3. wyniesienie przejścia dla pieszych oraz poszerzenie chodnika na ul. Lakierniczej wraz z zamontowaniem słupków (ponieważ już teraz, przy tak śmiesznie wąskim chodniku "kierowcy" potrafią parkować na nim)
 4. poszerzenie chodnika przy przedszkolu na ul. Monterskiej wraz z zamontowaniem słupków (ponieważ już teraz, przy tak śmiesznie wąskim chodniku "kierowcy" potrafią parkować na nim)
