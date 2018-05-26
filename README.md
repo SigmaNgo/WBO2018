@@ -1,6 +1,6 @@
-# Projekty zgłoszone do WBO 2018 dla osiedla Wrocław Grabiszynek
+# Projekty zgłoszone do WBO 2018 dla osiedla Grabiszynek
 
-## Nr projektu. 207 Grabiszynek przyjazny dla pieszych [WBO. 2018]
+## Nr projektu. 207 Grabiszynek przyjazny dla pieszych
 
 [Link do oficjalnej strony Wrocławskiego Budżetu Obywatelskiego ze zgłoszonym projektem](https://www.wroclaw.pl/budzet-obywatelski-wroclaw/wbo2016/projekty-2018/projekt,id,207)
 
@@ -14,18 +14,16 @@ Chcę aby Grabiszynek był przyjazny dla pieszych:
 5. wyniesienie przejść dla pieszych na ul. Odkrywców i ul. O. Beyzyma - przy terenach zielonych (poprawa bezpieczeństwa oraz spowolnienie ruchu)
 
 #### Elementy projektu
-
-nowy chodnik
-wyniesione przejście dla pieszych
-poszerzony chodnik
-nawierzchnia asfaltowa
+* nowy chodnik
+* wyniesione przejście dla pieszych
+* poszerzony chodnik
+* nawierzchnia asfaltowa
+* latarnie
 
 #### Załączniki
-
 * mapy pochodzą z http://gis.um.wroc.pl
 
 #### Kontakt
-
 filip@sigma.ngo
 
 lub przez stronę na FB [https://www.facebook.com/Grabiszynek-dla-pieszych-WBO-2018](https://www.facebook.com/Grabiszynek-dla-pieszych-WBO-2018-2056342254625958)
