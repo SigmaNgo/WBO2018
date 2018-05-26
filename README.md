@@ -4,9 +4,11 @@
 
 [Link do oficjalnej strony Wrocławskiego Budżetu Obywatelskiego ze zgłoszonym projektem](https://www.wroclaw.pl/budzet-obywatelski-wroclaw/wbo2016/projekty-2018/projekt,id,207)
 
+\* mapy pochodzą z http://gis.um.wroc.pl
+
 #### Uzasadnienie
 
-Chcę aby Grabiszynek był przyjazny dla pieszych:
+Chcemy aby Grabiszynek był przyjazny dla pieszych:
 1. wybudowanie nowych chodników przy Rymarskiej i Racławickiej
 ![](https://github.com/SigmaNgo/WBO2018/blob/master/obrazki/mapy/chodniki.JPG)
 2. ulepszenie wejścia do parku od ul. Tapicerskiej (aby było tak wygodne jak jest przy wejściu od ul. Heblarskiej / Ślusarskiej) - jest tu duży ruch pieszy i mogłoby być bezpieczniej (wyniesienie skrzyżowania) i przyjemniej (asfalt zamiast błota, latarnie)
@@ -26,7 +28,7 @@ Chcę aby Grabiszynek był przyjazny dla pieszych:
 * latarnie
 
 #### Załączniki
-* mapy pochodzą z http://gis.um.wroc.pl
+
 
 #### Kontakt
 filip@sigma.ngo
