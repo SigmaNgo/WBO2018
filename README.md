@@ -1,6 +1,6 @@
 # Projekty zgłoszone do WBO 2018 dla osiedla Wrocław Grabiszynek
 
-### Nr projektu. 207 Grabiszynek przyjazny dla pieszych [WBO. 2018]
+## Nr projektu. 207 Grabiszynek przyjazny dla pieszych [WBO. 2018]
 
 [Link do oficjalnej strony WBO gdzie zgłoszony został projekt](https://www.wroclaw.pl/budzet-obywatelski-wroclaw/wbo2016/projekty-2018/projekt,id,207)
 
@@ -27,3 +27,5 @@ nawierzchnia asfaltowa
 #### Kontakt
 
 filip@sigma.ngo
+
+lub przez stronę na FB [https://www.facebook.com/Grabiszynek-dla-pieszych-WBO-2018](https://www.facebook.com/Grabiszynek-dla-pieszych-WBO-2018-2056342254625958)
