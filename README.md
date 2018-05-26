@@ -8,8 +8,8 @@
 
 Chcemy aby Grabiszynek był przyjazny dla pieszych:
 1. wybudowanie nowych chodników przy Rymarskiej i Racławickiej
-![](https://github.com/SigmaNgo/WBO2018/blob/master/obrazki/mapy/chodniki.JPG)
-![](https://github.com/SigmaNgo/WBO2018/blob/master/obrazki/DSCN2195.JPG)
+![](/obrazki/mapy/chodniki.JPG)
+![](/obrazki/DSCN2195.JPG)
 ![](https://github.com/SigmaNgo/WBO2018/blob/master/obrazki/DSCN2205.JPG)
 2. ulepszenie wejścia do parku od ul. Tapicerskiej (aby było tak wygodne jak jest przy wejściu od ul. Heblarskiej / Ślusarskiej) - jest tu duży ruch pieszy i mogłoby być bezpieczniej (wyniesienie skrzyżowania) i przyjemniej (asfalt zamiast błota, latarnie)
 ![](https://github.com/SigmaNgo/WBO2018/blob/master/obrazki/mapy/strefa.JPG)
