@@ -33,7 +33,7 @@ Chcemy aby Grabiszynek był przyjazny dla pieszych:
 * latarnie
 
 #### Kontakt
-filip@sigma.ngo
+wbo2018@sigma.ngo
 
 lub przez stronę na FB [https://www.facebook.com/Grabiszynek-dla-pieszych-WBO-2018](https://www.facebook.com/Grabiszynek-dla-pieszych-WBO-2018-2056342254625958)
 
