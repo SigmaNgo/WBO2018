@@ -2,6 +2,8 @@
 
 ## Nr projektu. 207 Grabiszynek przyjazny dla pieszych
 
+**[01.06.2018] Dobra wiadomość - nasz projekt został zweryfikowany POZYTYWNIE.**
+
 [Link do oficjalnej strony Wrocławskiego Budżetu Obywatelskiego ze zgłoszonym projektem](https://www.wroclaw.pl/budzet-obywatelski-wroclaw/wbo2016/projekty-2018/projekt,id,207)
 
 #### Uzasadnienie
