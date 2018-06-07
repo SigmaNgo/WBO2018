@@ -2,7 +2,7 @@
 
 ## Nr projektu. 207 Grabiszynek przyjazny dla pieszych
 
-**[07.06.2018] Dobra wiadomość - to że nasz projekt został okrojony z 2 ważnych części nie oznacza że nie będziemy o nie wlaczyć, bo będziemy.**<br>
+**[07.06.2018] Dobra wiadomość - to że nasz projekt został okrojony z 2 ważnych części nie oznacza że nie będziemy o nie wlaczyć, bo będziemy. Więcej tutaj [LINK](https://www.facebook.com/GrabiszynekDlaPieszych/posts/2061995804060603).**<br>
 **[01.06.2018] Dobra wiadomość - nasz projekt został zweryfikowany POZYTYWNIE.**<br>
 **[01.06.2018] Zła wiadomość - nasz projekt został okrojony z 2 ważnych części, więcej na oficjalnej stronie.**
 
