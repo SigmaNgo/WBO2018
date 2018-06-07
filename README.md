@@ -2,6 +2,7 @@
 
 ## Nr projektu. 207 Grabiszynek przyjazny dla pieszych
 
+**[07.06.2018] Dobra wiadomość - to że nasz projekt został okrojony z 2 ważnych części nie oznacza że nie będziemy o nie wlaczyć, bo będziemy.**<br>
 **[01.06.2018] Dobra wiadomość - nasz projekt został zweryfikowany POZYTYWNIE.**<br>
 **[01.06.2018] Zła wiadomość - nasz projekt został okrojony z 2 ważnych części, więcej na oficjalnej stronie.**
 
@@ -38,10 +39,6 @@ Chcemy aby Grabiszynek był przyjazny dla pieszych:
 #### Kontakt
 wbo2018@sigma.ngo
 
-lub przez stronę na FB [https://www.facebook.com/Grabiszynek-dla-pieszych-WBO-2018](https://www.facebook.com/Grabiszynek-dla-pieszych-WBO-2018-2056342254625958)
-
-
-
-
+lub przez stronę na FB [Grabiszynek dla pieszych](https://www.facebook.com/GrabiszynekDlaPieszych)
 
 ###### \* mapy pochodzą z http://gis.um.wroc.pl
