@@ -8,6 +8,8 @@
 
 [Link do oficjalnej strony Wrocławskiego Budżetu Obywatelskiego ze zgłoszonym projektem](https://www.wroclaw.pl/budzet-obywatelski-wroclaw/wbo2016/projekty-2018/projekt,id,207)
 
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1xKtdm5BimZnAvOnOFsTrP7l_dH-no7A7" width="640" height="480"></iframe>
+
 #### Uzasadnienie
 
 Chcemy aby Grabiszynek był przyjazny dla pieszych:
