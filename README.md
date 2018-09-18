@@ -16,26 +16,16 @@
 
 Chcemy aby Grabiszynek był przyjazny dla pieszych. Nasz projekt zakłada zmiany w tych miejscach:
 1. wybudowanie nowych chodników przy Rymarskiej/Racławickiej
-![](http://sigma.ngo/WBO2018/obrazki/mapy/chodniki.JPG)
 [![](https://drive.google.com/thumbnail?id=1cfVF29Xn8kOGMqKnH3tnynGENN8UnZvs)](https://drive.google.com/file/d/1cfVF29Xn8kOGMqKnH3tnynGENN8UnZvs)
-![https://drive.google.com/file/d/1cfVF29Xn8kOGMqKnH3tnynGENN8UnZvs](https://drive.google.com/thumbnail?id=1cfVF29Xn8kOGMqKnH3tnynGENN8UnZvs)
-![](http://sigma.ngo/WBO2018/obrazki/DSCN2205.JPG)
 2. wybudowanie nowych chodników przy Rymarskiej/Lakierniczej
-![](http://sigma.ngo/WBO2018/obrazki/mapy/chodniki.JPG)
+[![](https://drive.google.com/thumbnail?id=1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)](https://drive.google.com/file/d/1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)
 3. oznakowanie przejścia dla pieszych na ul. Rymarskiej; zawężenie jezdni w obszarze tego przejścia tak, aby uniemożliwić parkowanie samochodów w jego obrębie
 4. ulepszenie wejścia do parku od ul. Tapicerskiej (aby było tak wygodne jak jest przy wejściu od ul. Heblarskiej / Ślusarskiej) - jest tu duży ruch pieszy i mogłoby być bezpieczniej (wyniesienie skrzyżowania) i przyjemniej (asfalt zamiast błota, latarnie)
-![](http://sigma.ngo/WBO2018/obrazki/mapy/strefa.JPG)
-![](http://sigma.ngo/WBO2018/obrazki/DSCN2216.JPG)
-![](http://sigma.ngo/WBO2018/obrazki/DSCN22161.JPG)
-3. wyniesienie przejścia dla pieszych oraz poszerzenie chodnika na ul. Lakierniczej wraz z zamontowaniem słupków (ponieważ już teraz, przy tak śmiesznie wąskim chodniku kierowcy samochodów potrafią parkować na nim)
-![](http://sigma.ngo/WBO2018/obrazki/mapy/przejscie.JPG)
-![](http://sigma.ngo/WBO2018/obrazki/DSCN2206.JPG)
-4. poszerzenie chodnika przy przedszkolu na ul. Monterskiej wraz z zamontowaniem słupków (ponieważ już teraz, przy tak śmiesznie wąskim chodniku kierowcy samochodów potrafią parkować na nim)
-![](http://sigma.ngo/WBO2018/obrazki/mapy/chodnik.JPG)
-![](http://sigma.ngo/WBO2018/obrazki/DSCN2210.JPG)
-5. wyniesienie przejść dla pieszych na ul. Odkrywców i ul. O. Beyzyma - przy terenach zielonych (poprawa bezpieczeństwa oraz spowolnienie ruchu)
-![](http://sigma.ngo/WBO2018/obrazki/mapy/wyniesienie.JPG)
-![](http://sigma.ngo/WBO2018/obrazki/DSCN2215.JPG)
+[![](https://drive.google.com/thumbnail?id=1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)](https://drive.google.com/file/d/1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)
+5. wyniesienie przejść dla pieszych na ul. O. Beyzyma - przy terenach zielonych (poprawa bezpieczeństwa oraz spowolnienie ruchu)
+[![](https://drive.google.com/thumbnail?id=1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)](https://drive.google.com/file/d/1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)
+6. wyniesienie przejść dla pieszych na ul. Odkrywców - przy terenach zielonych (poprawa bezpieczeństwa oraz spowolnienie ruchu)
+7. dojście do przychodni
 
 #### Elementy projektu
 * nowe chodniki
