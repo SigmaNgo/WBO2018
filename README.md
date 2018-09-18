@@ -17,10 +17,10 @@ Chcemy aby Grabiszynek był przyjazny dla pieszych. Nasz projekt zakłada zmiany
 1. wybudowanie nowych chodników przy Rymarskiej/Racławickiej
 <br>[![](https://drive.google.com/thumbnail?id=1cfVF29Xn8kOGMqKnH3tnynGENN8UnZvs)](https://drive.google.com/file/d/1cfVF29Xn8kOGMqKnH3tnynGENN8UnZvs)
 2. wybudowanie nowych chodników przy Rymarskiej/Lakierniczej
-<br>[![](https://drive.google.com/thumbnail?id=1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)](https://drive.google.com/file/d/1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)
+<br>[![](https://drive.google.com/thumbnail?id=12ewhy86jfSruQUo9ZRz6jQnBGxdp6)](https://drive.google.com/file/d/12ewhy86jfSruQUo9ZRz6jQnBGxdp6)
 3. oznakowanie przejścia dla pieszych na ul. Rymarskiej; zawężenie jezdni w obszarze tego przejścia tak, aby uniemożliwić parkowanie samochodów w jego obrębie
 4. ulepszenie wejścia do parku od ul. Tapicerskiej (aby było tak wygodne jak jest przy wejściu od ul. Heblarskiej / Ślusarskiej) - jest tu duży ruch pieszy i mogłoby być bezpieczniej (wyniesienie skrzyżowania) i przyjemniej (asfalt zamiast błota, latarnie)
-<br>[![](https://drive.google.com/thumbnail?id=12ewhy86jfSruQUo9ZRz6jQnBGxdp6)](https://drive.google.com/file/d/12ewhy86jfSruQUo9ZRz6jQnBGxdp6)
+<br>[![](https://drive.google.com/thumbnail?id=1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)](https://drive.google.com/file/d/1X3U0ncb9lz6DhS4DCmNQAnsOJ0sohJDP)
 5. wyniesienie przejść dla pieszych na ul. O. Beyzyma - przy terenach zielonych (poprawa bezpieczeństwa oraz spowolnienie ruchu)
 <br>[![](https://drive.google.com/thumbnail?id=1ItjvMVcZoN49bFuFNBMEaT0PdZRVnu4x)](https://drive.google.com/file/d/1ItjvMVcZoN49bFuFNBMEaT0PdZRVnu4x)
 6. wyniesienie przejść dla pieszych na ul. Odkrywców - przy terenach zielonych (poprawa bezpieczeństwa oraz spowolnienie ruchu)
@@ -32,8 +32,7 @@ Chcemy aby Grabiszynek był przyjazny dla pieszych. Nasz projekt zakłada zmiany
 * utwardzenie nawierzchni przy wejściu do parku
 
 #### Kontakt
-wbo2018@sigma.ngo
-
-lub przez stronę na FB [Grabiszynek dla pieszych](https://www.facebook.com/GrabiszynekDlaPieszych)
+email: <wbo2018@sigma.ngo>
+facebook: [Grabiszynek dla pieszych](https://www.facebook.com/GrabiszynekDlaPieszych)
 
 ###### \* mapy pochodzą z http://gis.um.wroc.pl
