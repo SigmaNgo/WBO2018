@@ -1,4 +1,4 @@
-#  Wrocławski Budżet Obywatelski
+#  Wrocławski Budżet Obywatelski 2018
 ## Projekt #207 Grabiszynek przyjazny dla pieszych
 [Link do oficjalnej strony Wrocławskiego Budżetu Obywatelskiego ze zgłoszonym projektem](https://www.wroclaw.pl/budzet-obywatelski-wroclaw/wbo2016/projekty-2018/projekt,id,207)
 #### Aktualności
