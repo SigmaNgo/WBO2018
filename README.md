@@ -22,7 +22,9 @@ Chcemy aby Grabiszynek był przyjazny dla pieszych. Nasz projekt zakłada zmiany
 5. wyniesienie przejść dla pieszych na ul. O. Beyzyma - przy terenach zielonych (poprawa bezpieczeństwa oraz spowolnienie ruchu)
 <br>[![](https://drive.google.com/thumbnail?id=1ItjvMVcZoN49bFuFNBMEaT0PdZRVnu4x)](https://drive.google.com/file/d/1ItjvMVcZoN49bFuFNBMEaT0PdZRVnu4x)
 6. wyniesienie przejść dla pieszych na ul. Odkrywców - przy terenach zielonych (poprawa bezpieczeństwa oraz spowolnienie ruchu)
+<br>[![](https://drive.google.com/thumbnail?id=1IvbD21gIoDjlQIP0nkmECY15FTOiFCWW)](https://drive.google.com/file/d/1IvbD21gIoDjlQIP0nkmECY15FTOiFCWW)
 7. dojście do przychodni - ułatwienie zjazdu ze ścieżki rowerowej do przychodni
+<br>[![](https://drive.google.com/thumbnail?id=1Sn5XOQopZybMioY0ae2B5f8wTOPi1xmi)](https://drive.google.com/file/d/1Sn5XOQopZybMioY0ae2B5f8wTOPi1xmi)
 
 #### Elementy projektu
 * nowe chodniki
